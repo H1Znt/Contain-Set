@@ -1,0 +1,17 @@
+{
+  "name": "contain-set",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "andrey_maximov",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.25.7",
+    "@babel/core": "^7.25.8",
+    "@babel/preset-env": "^7.25.8",
+    "jest": "^29.7.0"
+  }
+}
