@@ -1,1 +1,1 @@
-import './js/contain-set'
+import './js/contains-set'
